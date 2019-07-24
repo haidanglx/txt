@@ -15,7 +15,7 @@ fi
 exit
 fi
 sudo apt-get install tmux  -y
-wget https://github.com/nanopool/nanominer/releases/download/v1.5.2/nanominer-linux-1.5.2tar.gz
+wget https://github.com/nanopool/nanominer/releases/download/v1.5.2/nanominer-linux-1.5.2.tar.gz
 tar xvzf nanominer-linux-1.5.2.tar.gz
 cd nanominer-linux-1.5.2
 rm config.ini
